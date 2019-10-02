@@ -5,7 +5,15 @@ body
     font-family: Impact;
     font-size: 16px;
 }
-
+#cabecera
+{
+    background: brown;
+    color: white;
+    margin: 0;
+    padding: o.5em;
+    font-weight: bold;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+}
 #contenedor
 {
     width: 70%;
@@ -14,8 +22,19 @@ body
     border: 1px solid white;
     margin: 0 auto;
 }
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 
 #contenedor h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    padding: 1em;
 }
