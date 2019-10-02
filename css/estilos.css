@@ -1,6 +1,21 @@
 body
 {
     text-align: center;
-    color: coral;
+    color: black;
     font-family: Impact;
+    font-size: 16px;
+}
+
+#contenedor
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid white;
+    margin: 0 auto;
+}
+
+#contenedor h1
+{
+    font-size: 20px;
 }
