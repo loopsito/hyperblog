@@ -5,3 +5,5 @@ Esta es la vida de valeria brito.
 Estudia en la udo ingenieria de sistemas, va por el 6to semestre. Es muy aburrido.
 
 Estoy escribiendo en la linea 7 porque quiero practicar checkout.
+
+Linea 9, que bonito.
