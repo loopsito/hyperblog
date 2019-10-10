@@ -20,8 +20,5 @@ Practicando el fork, oh hell yeah
 Linea 9, que bonito.
 
 cositasss
-<<<<<<< HEAD
-=======
 otras masssss
 
->>>>>>> cherry
